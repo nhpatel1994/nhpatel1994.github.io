@@ -1,0 +1,55 @@
+.left-image{
+    width: 750px;
+    float: left;
+    margin-right: 10px;
+}
+
+.right-image{
+    width: 250px;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.comp-image{
+    width: 550px;
+    border: 1px solid;
+    border-color: black;
+    margin: 0px;
+    vertical-align: middle;
+    margin-bottom: 30px;
+}
+
+.navbar-brand {
+    background-color: lightseagreen;
+    width: 150px;
+    height: 50px;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.green-title {
+    color: lightseagreen;
+    font-weight: 600;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.green-title-center {
+    color: lightseagreen;
+    font-weight: 600;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    background-color: white;
+    padding: 25px;
+}
+
+.container-fluid-lower{
+    background-color: lightgray;
+
+}
